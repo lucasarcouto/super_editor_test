@@ -6,20 +6,22 @@ void main() {
 }
 
 /// Issue:
-///   Backspace (both physical keyboard and emulator) are not working
+///   When user types a text longer than the widget's starting size, they won't
+///   be able to see what they are typing, because the text goes outside
+///   of the widget's boundaries
 ///
 /// Expected behavior:
-///   After typing something, user should be able to delete text
+///   While typing, current cursor position should always be visible so the
+///   user can see what's being typed
 ///
 /// Platform:
-///   Android
+///   iOS, Android
 ///
 /// Steps to reproduce:
 ///   - Start Android Emulator
 ///   - Run project
 ///   - Tap green rectangle
 ///   - Type anything
-///   - Try to delete using either physical or emulator's backspace
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
@@ -32,6 +34,9 @@ class MyApp extends StatelessWidget {
             color: Colors.black,
             child: const SuperTextField(
               lineHeight: 16,
+              minLines: 2,
+              maxLines: 5,
+              textAlign: TextAlign.center,
             ),
           ),
         ),

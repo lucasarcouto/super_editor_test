@@ -8,6 +8,11 @@ void main() {
 /// Issue:
 ///   Can’t center text vertically inside SuperTextEditor
 ///
+/// Expected behavior:
+///   Widget should provide a way to center text vertically.
+///   If user selects minLines: 2, it should render widget of that size, but
+///   text starts at the center
+///
 /// Platform:
 ///   iOS, Android & Web
 ///
@@ -22,26 +27,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
       home: Scaffold(
-        appBar: AppBar(),
         body: Center(
           child: Container(
-            color: Colors.green,
-            child: SuperTextField(
+            color: Colors.black,
+            child: const SuperTextField(
               lineHeight: 16,
               minLines: 2,
               maxLines: 5,
               textAlign: TextAlign.center,
-              textStyleBuilder: (attributions) {
-                return const TextStyle(
-                  color: Colors.black,
-                  fontSize: 14,
-                );
-              },
             ),
           ),
         ),

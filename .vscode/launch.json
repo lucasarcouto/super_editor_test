@@ -39,5 +39,12 @@
             "args": ["--dart-define=ENV=release"],
             "program": "lib/main_5.dart"
         },
+        {
+            "name": "Current cursor position issue",
+            "type": "dart",
+            "request": "launch",
+            "args": ["--dart-define=ENV=release"],
+            "program": "lib/main_6.dart"
+        },
     ]
 }
