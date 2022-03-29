@@ -6,7 +6,9 @@ To run each of them, you can choose the run configuration named with it's associ
 # Visual examples
 
 - iOS
+
 ![iOS](https://media2.giphy.com/media/GhK0emG78Fiv0rrC5f/giphy.gif)
 
 - Android
+
 ![Android](https://media4.giphy.com/media/tg41jr1wxDv1caOJD9/giphy.gif)
