@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cursor position issue",
+            "type": "dart",
+            "request": "launch",
+            "args": ["--dart-define=ENV=release"],
+            "program": "lib/main_1.dart"
+        },
+        {
+            "name": "Resize issue",
+            "type": "dart",
+            "request": "launch",
+            "args": ["--dart-define=ENV=release"],
+            "program": "lib/main_2.dart"
+        },
+        {
+            "name": "Backspace issue",
+            "type": "dart",
+            "request": "launch",
+            "args": ["--dart-define=ENV=release"],
+            "program": "lib/main_3.dart"
+        },
+        {
+            "name": "Cursor outside boundaries issue",
+            "type": "dart",
+            "request": "launch",
+            "args": ["--dart-define=ENV=release"],
+            "program": "lib/main_4.dart"
+        },
+        {
+            "name": "Vertical alignment issue",
+            "type": "dart",
+            "request": "launch",
+            "args": ["--dart-define=ENV=release"],
+            "program": "lib/main_5.dart"
+        },
+    ]
+}
