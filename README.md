@@ -5,6 +5,7 @@ To run each of them, you can choose the run configuration named with it's associ
 
 # Visual examples
 - Issue #1
+
   ![Issue 1](https://media1.giphy.com/media/sEMOaJ4wWqGCyzdBo7/giphy.gif)
   
   
