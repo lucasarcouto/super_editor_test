@@ -6,7 +6,7 @@ To run each of them, you can choose the run configuration named with it's associ
 # Visual examples
 - Issue #1
 
-  ![Issue 1](https://user-images.githubusercontent.com/3801761/160727237-383df208-c295-4ae5-922f-304eda8eb8be.mp4)
+  https://user-images.githubusercontent.com/3801761/160727237-383df208-c295-4ae5-922f-304eda8eb8be.mp4
 
 
 
