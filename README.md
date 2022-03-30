@@ -24,7 +24,7 @@ To run each of them, you can choose the run configuration named with it's associ
   
 - Issue #4
 
-  ![Issue 4](https://media0.giphy.com/media/igxy5Sa7plrJmgkuop/giphy.gif)
+  ![Issue 4](https://media3.giphy.com/media/rQWz4ul91UQuhrZdpl/giphy.gif)
 
 
 
@@ -36,6 +36,6 @@ To run each of them, you can choose the run configuration named with it's associ
   
 - Issue #6
 
-  ![Issue 6](https://media3.giphy.com/media/ssiKdTiJhUQv90Vks7/giphy.gif)
+  ![Issue 6](https://media4.giphy.com/media/PzrSeQCsWfMl2IoALe/giphy.gif)
   
   
