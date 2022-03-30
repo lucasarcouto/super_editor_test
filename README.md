@@ -12,30 +12,31 @@ To run each of them, you can choose the run configuration named with it's associ
 
 - Issue #2
 
-  ![Issue 2](https://media1.giphy.com/media/uXmpcwRIXnA8Dsvt19/giphy.gif)
+https://user-images.githubusercontent.com/3801761/160727557-fa38c470-28d9-4403-b9dd-09772b31b982.mp4
   
   
   
 - Issue #3
 
-  ![Issue 3](https://media4.giphy.com/media/MceUuEPKdqXqJDumuj/giphy.gif)
-  
-  
-  
+https://user-images.githubusercontent.com/3801761/160727613-dd105360-1bc7-455e-852b-8ba19b5a0845.mp4
+
+
+ 
 - Issue #4
 
-  ![Issue 4](https://media3.giphy.com/media/rQWz4ul91UQuhrZdpl/giphy.gif)
+https://user-images.githubusercontent.com/3801761/160727663-68072d9d-d8ee-4f0d-aed4-7b7032802ead.mp4
 
 
 
 - Issue #5
 
-  ![Issue 5](https://media1.giphy.com/media/yZaCNo125xylrzQTkP/giphy.gif)
-  
+https://user-images.githubusercontent.com/3801761/160727725-e2cfa3c6-39e0-47d2-b562-cf52762ca7ed.mp4
+
   
   
 - Issue #6
 
-  ![Issue 6](https://media4.giphy.com/media/PzrSeQCsWfMl2IoALe/giphy.gif)
-  
+https://user-images.githubusercontent.com/3801761/160727755-613725f9-c253-4d7b-9731-f8f66a8513b3.mp4
+
+
   
