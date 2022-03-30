@@ -20,7 +20,7 @@ void main() {
 /// Steps to reproduce:
 ///   - Start Android Emulator
 ///   - Run project
-///   - Tap green rectangle
+///   - Tap black rectangle
 ///   - Type anything
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);

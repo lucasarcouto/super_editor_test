@@ -5,42 +5,42 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Cursor position issue",
+            "name": "1 - Cursor position issue",
             "type": "dart",
             "request": "launch",
             "args": ["--dart-define=ENV=release"],
             "program": "lib/main_1.dart"
         },
         {
-            "name": "Resize issue",
+            "name": "2 - Resize issue",
             "type": "dart",
             "request": "launch",
             "args": ["--dart-define=ENV=release"],
             "program": "lib/main_2.dart"
         },
         {
-            "name": "Backspace issue",
+            "name": "3 - Backspace issue",
             "type": "dart",
             "request": "launch",
             "args": ["--dart-define=ENV=release"],
             "program": "lib/main_3.dart"
         },
         {
-            "name": "Cursor outside boundaries issue",
+            "name": "4 - Cursor outside boundaries issue",
             "type": "dart",
             "request": "launch",
             "args": ["--dart-define=ENV=release"],
             "program": "lib/main_4.dart"
         },
         {
-            "name": "Vertical alignment issue",
+            "name": "5 - Vertical alignment issue",
             "type": "dart",
             "request": "launch",
             "args": ["--dart-define=ENV=release"],
             "program": "lib/main_5.dart"
         },
         {
-            "name": "Current cursor position issue",
+            "name": "6 - Current cursor position issue",
             "type": "dart",
             "request": "launch",
             "args": ["--dart-define=ENV=release"],

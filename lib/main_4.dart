@@ -21,7 +21,7 @@ void main() {
 /// Steps to reproduce:
 ///   - Start Android Emulator
 ///   - Run project
-///   - Tap green rectangle
+///   - Tap black rectangle
 ///   - Type at least maxLines paragraphs
 ///     (more paragraphs gives more visible results)
 ///   - Drag the cursor around and see that it goes beyond the wigdets boundaries

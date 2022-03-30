@@ -17,7 +17,7 @@ void main() {
 /// Steps to reproduce:
 ///   - Start Android Emulator
 ///   - Run project
-///   - Tap green rectangle
+///   - Tap black rectangle
 ///   - Type anything
 ///   - Try to delete using either physical or emulator's backspace
 class MyApp extends StatelessWidget {
