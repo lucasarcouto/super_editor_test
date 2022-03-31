@@ -34,7 +34,6 @@ class MyApp extends StatelessWidget {
             child: const SuperTextField(
               lineHeight: 16,
               minLines: 2,
-              maxLines: 5,
               textAlign: TextAlign.center,
             ),
           ),
